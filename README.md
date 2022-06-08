@@ -1,4 +1,4 @@
-# Sanctuary-Keyboard-Hardware
+# The Sanctuary Keyboard (Hardware)
 
 ## Demo Video (to be added later):
 
