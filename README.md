@@ -29,7 +29,7 @@ Many photos of the Sanctuary, both in progress, and completed. In no particular 
 
 There are photos of the board, as well as the final build. Check it out!
 
-## License Information:
+## License Information
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
