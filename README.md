@@ -1,4 +1,4 @@
-# The Sanctuary Keyboard (Hardware)
+# The Sanctuary Keyboard (Hardware) [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 ## Demo Video (to be added later):
 
@@ -24,3 +24,15 @@ Can be ordered from many PCB manufacturers, such as JLC PCB, OSHPARK, or PCBWay.
 Many photos of the Sanctuary, both in progress, and completed. In no particular order.
 
 There are photos of the board, as well as the final build. Check it out!
+
+## License Information:
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
