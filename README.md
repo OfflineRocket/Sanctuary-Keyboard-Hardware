@@ -1,6 +1,7 @@
 # The Sanctuary Keyboard (Hardware) [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-## Demo Video (to be added later):
+## [Demo Video](https://youtu.be/0jshQPa9tzA)
+[![TheSanctuaryDemoVideo](https://img.youtube.com/vi/0jshQPa9tzA/0.jpg)](https://youtu.be/0jshQPa9tzA)
 
 ## [Firmware Available Here](https://github.com/LegoRocket/Sanctuary-Keyboard-Firmware)
 
