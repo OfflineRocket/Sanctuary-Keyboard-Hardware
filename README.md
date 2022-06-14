@@ -29,7 +29,9 @@ Can be ordered from many PCB manufacturers, such as JLC PCB, OSHPARK, or PCBWay.
 ### Photos
 Many photos of the Sanctuary, both in progress, and completed. In no particular order.
 
-There are photos of the board, as well as the final build. Check it out!
+There are photos of the board, as well as the final build. Check it out! (To be added Soon)
+
+# [Follow my Socials](https://linktr.ee/Lego_Rocket)
 
 ## License Information
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
